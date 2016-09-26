@@ -1,0 +1,14 @@
+Fonts actively used in this project
+-----------------------------------
+
+
+Font name       :   HelveticaNeueETW01-55Rg
+Font provider   :   fonts.com
+
+******************************************************************************
+
+
+
+
+
+Created by Typecast on 2015/05/07.
